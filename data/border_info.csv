@@ -1,0 +1,729 @@
+,country_name,country_border_name
+0,Andorra,France
+1,Andorra,Spain
+2,United Arab Emirates,Oman
+3,United Arab Emirates,Saudi Arabia
+4,Afghanistan,China
+5,Afghanistan,Iran
+6,Afghanistan,Pakistan
+7,Afghanistan,Tajikistan
+8,Afghanistan,Turkmenistan
+9,Afghanistan,Uzbekistan
+10,Antigua and Barbuda,
+11,Anguilla,
+12,Albania,Greece
+13,Albania,Montenegro
+14,Albania,North Macedonia
+15,Albania,Serbia
+16,Armenia,Azerbaijan
+17,Armenia,Georgia
+18,Armenia,Iran
+19,Armenia,Turkey
+20,Angola,Congo (Kinshasa)
+21,Angola,Congo (the Democratic Republic of the)
+22,Angola,Namibia
+23,Angola,Zambia
+24,Antarctica,
+25,Argentina,Bolivia
+26,Argentina,Brazil
+27,Argentina,Chile
+28,Argentina,Paraguay
+29,Argentina,Uruguay
+30,American Samoa,
+31,Austria,Czechia
+32,Austria,Germany
+33,Austria,Hungary
+34,Austria,Italy
+35,Austria,Liechtenstein
+36,Austria,Slovakia
+37,Austria,Slovenia
+38,Austria,Switzerland
+39,Australia,
+40,Aruba,
+41,Aland Islands,
+42,Azerbaijan,Armenia
+43,Azerbaijan,Georgia
+44,Azerbaijan,Iran
+45,Azerbaijan,Russia
+46,Azerbaijan,Turkey
+47,Bosnia and Herzegovina,Croatia
+48,Bosnia and Herzegovina,Montenegro
+49,Bosnia and Herzegovina,Serbia
+50,Barbados,
+51,Bangladesh,India
+52,Bangladesh,Myanmar
+53,Belgium,France
+54,Belgium,Germany
+55,Belgium,Luxembourg
+56,Belgium,Netherlands
+57,Burkina Faso,Benin
+58,Burkina Faso,Cote d'Ivoire
+59,Burkina Faso,Ghana
+60,Burkina Faso,Mali
+61,Burkina Faso,Niger
+62,Burkina Faso,Togo
+63,Bulgaria,Greece
+64,Bulgaria,North Macedonia
+65,Bulgaria,Romania
+66,Bulgaria,Serbia
+67,Bulgaria,Turkey
+68,Bahrain,
+69,Burundi,Congo (the Democratic Republic of the)
+70,Burundi,Rwanda
+71,Burundi,Tanzania
+72,Benin,Burkina Faso
+73,Benin,Niger
+74,Benin,Nigeria
+75,Benin,Togo
+76,Saint Barthelemy,
+77,Bermuda,
+78,Brunei,Malaysia
+79,Bolivia,Argentina
+80,Bolivia,Brazil
+81,Bolivia,Chile
+82,Bolivia,Paraguay
+83,Bolivia,Peru
+84,"Bonaire, Sint Eustatius and Saba",
+85,Brazil,Argentina
+86,Brazil,Bolivia
+87,Brazil,Colombia
+88,Brazil,French Guiana
+89,Brazil,Guyana
+90,Brazil,Paraguay
+91,Brazil,Peru
+92,Brazil,Suriname
+93,Brazil,Uruguay
+94,Brazil,Venezuela
+95,Bahamas,
+96,Bhutan,China
+97,Bhutan,India
+98,Bouvet Island,
+99,Botswana,Namibia
+100,Botswana,South Africa
+101,Botswana,Zambia
+102,Botswana,Zimbabwe
+103,Belarus,Latvia
+104,Belarus,Lithuania
+105,Belarus,Poland
+106,Belarus,Russia
+107,Belarus,Ukraine
+108,Belize,Guatemala
+109,Belize,Mexico
+110,Canada,US
+111,Cocos (Keeling) Islands,
+112,Congo (the Democratic Republic of the),Angola
+113,Congo (the Democratic Republic of the),Burundi
+114,Congo (the Democratic Republic of the),Central African Republic
+115,Congo (the Democratic Republic of the),Congo (Kinshasa)
+116,Congo (the Democratic Republic of the),Rwanda
+117,Congo (the Democratic Republic of the),South Sudan
+118,Congo (the Democratic Republic of the),Tanzania
+119,Congo (the Democratic Republic of the),Uganda
+120,Congo (the Democratic Republic of the),Zambia
+121,Central African Republic,Cameroon
+122,Central African Republic,Chad
+123,Central African Republic,Congo (Kinshasa)
+124,Central African Republic,Congo (the Democratic Republic of the)
+125,Central African Republic,South Sudan
+126,Central African Republic,Sudan
+127,Congo (Kinshasa),Angola
+128,Congo (Kinshasa),Cameroon
+129,Congo (Kinshasa),Central African Republic
+130,Congo (Kinshasa),Congo (the Democratic Republic of the)
+131,Congo (Kinshasa),Gabon
+132,Switzerland,Austria
+133,Switzerland,France
+134,Switzerland,Germany
+135,Switzerland,Italy
+136,Switzerland,Liechtenstein
+137,Cote d'Ivoire,Burkina Faso
+138,Cote d'Ivoire,Ghana
+139,Cote d'Ivoire,Guinea
+140,Cote d'Ivoire,Liberia
+141,Cote d'Ivoire,Mali
+142,Cook Islands,
+143,Chile,Argentina
+144,Chile,Bolivia
+145,Chile,Peru
+146,Cameroon,Central African Republic
+147,Cameroon,Chad
+148,Cameroon,Congo (Kinshasa)
+149,Cameroon,Equatorial Guinea
+150,Cameroon,Gabon
+151,Cameroon,Nigeria
+152,China,Afghanistan
+153,China,Bhutan
+154,China,Hong Kong
+155,China,India
+156,China,Kazakhstan
+157,China,Korea (Democratic People's Republic of)
+158,China,Kyrgyzstan
+159,China,Laos
+160,China,Macao
+161,China,Mongolia
+162,China,Myanmar
+163,China,Nepal
+164,China,Pakistan
+165,China,Russia
+166,China,Tajikistan
+167,China,Vietnam
+168,Colombia,Brazil
+169,Colombia,Ecuador
+170,Colombia,Panama
+171,Colombia,Peru
+172,Colombia,Venezuela
+173,Costa Rica,Nicaragua
+174,Costa Rica,Panama
+175,Cuba,
+176,Cabo Verde,
+177,Curacao,
+178,Christmas Island,
+179,Cyprus,
+180,Czechia,Austria
+181,Czechia,Germany
+182,Czechia,Poland
+183,Czechia,Slovakia
+184,Germany,Austria
+185,Germany,Belgium
+186,Germany,Czechia
+187,Germany,Denmark
+188,Germany,France
+189,Germany,Luxembourg
+190,Germany,Netherlands
+191,Germany,Poland
+192,Germany,Switzerland
+193,Djibouti,Eritrea
+194,Djibouti,Ethiopia
+195,Djibouti,Somalia
+196,Denmark,Germany
+197,Dominica,
+198,Dominican Republic,Haiti
+199,Algeria,Libya
+200,Algeria,Mali
+201,Algeria,Mauritania
+202,Algeria,Morocco
+203,Algeria,Niger
+204,Algeria,Tunisia
+205,Algeria,Western Sahara
+206,Ecuador,Colombia
+207,Ecuador,Peru
+208,Estonia,Latvia
+209,Estonia,Russia
+210,Egypt,Israel
+211,Egypt,Libya
+212,Egypt,"Palestine, State of"
+213,Egypt,Sudan
+214,Western Sahara,Algeria
+215,Western Sahara,Mauritania
+216,Western Sahara,Morocco
+217,Eritrea,Djibouti
+218,Eritrea,Ethiopia
+219,Eritrea,Sudan
+220,Spain,Andorra
+221,Spain,France
+222,Spain,Gibraltar
+223,Spain,Morocco
+224,Spain,Portugal
+225,Ethiopia,Djibouti
+226,Ethiopia,Eritrea
+227,Ethiopia,Kenya
+228,Ethiopia,Somalia
+229,Ethiopia,South Sudan
+230,Ethiopia,Sudan
+231,Finland,Norway
+232,Finland,Russia
+233,Finland,Sweden
+234,Fiji,
+235,Falkland Islands (Malvinas),
+236,Micronesia (Federated States of),
+237,Faroe Islands,
+238,France,Andorra
+239,France,Belgium
+240,France,Germany
+241,France,Italy
+242,France,Luxembourg
+243,France,Monaco
+244,France,Spain
+245,France,Switzerland
+246,Gabon,Cameroon
+247,Gabon,Congo (Kinshasa)
+248,Gabon,Equatorial Guinea
+249,United Kingdom,Ireland
+250,Grenada,
+251,Georgia,Armenia
+252,Georgia,Azerbaijan
+253,Georgia,Russia
+254,Georgia,Turkey
+255,French Guiana,Brazil
+256,French Guiana,Suriname
+257,Guernsey,
+258,Ghana,Burkina Faso
+259,Ghana,Cote d'Ivoire
+260,Ghana,Togo
+261,Gibraltar,Spain
+262,Greenland,
+263,Gambia,Senegal
+264,Guinea,Cote d'Ivoire
+265,Guinea,Guinea-Bissau
+266,Guinea,Liberia
+267,Guinea,Mali
+268,Guinea,Senegal
+269,Guinea,Sierra Leone
+270,Guadeloupe,
+271,Equatorial Guinea,Cameroon
+272,Equatorial Guinea,Gabon
+273,Greece,Albania
+274,Greece,Bulgaria
+275,Greece,North Macedonia
+276,Greece,Turkey
+277,South Georgia and the South Sandwich Islands,
+278,Guatemala,Belize
+279,Guatemala,El Salvador
+280,Guatemala,Honduras
+281,Guatemala,Mexico
+282,Guam,
+283,Guinea-Bissau,Guinea
+284,Guinea-Bissau,Senegal
+285,Guyana,Brazil
+286,Guyana,Suriname
+287,Guyana,Venezuela
+288,Hong Kong,China
+289,Heard Island and McDonald Islands,
+290,Honduras,El Salvador
+291,Honduras,Guatemala
+292,Honduras,Nicaragua
+293,Croatia,Bosnia and Herzegovina
+294,Croatia,Hungary
+295,Croatia,Montenegro
+296,Croatia,Serbia
+297,Croatia,Slovenia
+298,Haiti,Dominican Republic
+299,Hungary,Austria
+300,Hungary,Croatia
+301,Hungary,Romania
+302,Hungary,Serbia
+303,Hungary,Slovakia
+304,Hungary,Slovenia
+305,Hungary,Ukraine
+306,Indonesia,Malaysia
+307,Indonesia,Papua New Guinea
+308,Indonesia,Timor-Leste
+309,Ireland,United Kingdom
+310,Israel,Egypt
+311,Israel,Jordan
+312,Israel,Lebanon
+313,Israel,"Palestine, State of"
+314,Israel,Syria
+315,Isle of Man,
+316,India,Bangladesh
+317,India,Bhutan
+318,India,China
+319,India,Myanmar
+320,India,Nepal
+321,India,Pakistan
+322,British Indian Ocean Territory,
+323,Iraq,Iran
+324,Iraq,Jordan
+325,Iraq,Kuwait
+326,Iraq,Saudi Arabia
+327,Iraq,Syria
+328,Iraq,Turkey
+329,Iran,Afghanistan
+330,Iran,Armenia
+331,Iran,Azerbaijan
+332,Iran,Iraq
+333,Iran,Pakistan
+334,Iran,Turkey
+335,Iran,Turkmenistan
+336,Iceland,
+337,Italy,Austria
+338,Italy,France
+339,Italy,San Marino
+340,Italy,Slovenia
+341,Italy,Switzerland
+342,Italy,Holy See
+343,Jersey,
+344,Jamaica,
+345,Jordan,Iraq
+346,Jordan,Israel
+347,Jordan,"Palestine, State of"
+348,Jordan,Saudi Arabia
+349,Jordan,Syria
+350,Japan,
+351,Kenya,Ethiopia
+352,Kenya,Somalia
+353,Kenya,South Sudan
+354,Kenya,Tanzania
+355,Kenya,Uganda
+356,Kyrgyzstan,China
+357,Kyrgyzstan,Kazakhstan
+358,Kyrgyzstan,Tajikistan
+359,Kyrgyzstan,Uzbekistan
+360,Cambodia,Laos
+361,Cambodia,Thailand
+362,Cambodia,Vietnam
+363,Kiribati,
+364,Comoros,
+365,Saint Kitts and Nevis,
+366,Korea (Democratic People's Republic of),China
+367,Korea (Democratic People's Republic of),"Korea, South"
+368,Korea (Democratic People's Republic of),Russia
+369,"Korea, South",Korea (Democratic People's Republic of)
+370,Kuwait,Iraq
+371,Kuwait,Saudi Arabia
+372,Cayman Islands,
+373,Kazakhstan,China
+374,Kazakhstan,Kyrgyzstan
+375,Kazakhstan,Russia
+376,Kazakhstan,Turkmenistan
+377,Kazakhstan,Uzbekistan
+378,Laos,China
+379,Laos,Cambodia
+380,Laos,Myanmar
+381,Laos,Thailand
+382,Laos,Vietnam
+383,Lebanon,Israel
+384,Lebanon,Syria
+385,Saint Lucia,
+386,Liechtenstein,Austria
+387,Liechtenstein,Switzerland
+388,Sri Lanka,
+389,Liberia,Cote d'Ivoire
+390,Liberia,Guinea
+391,Liberia,Sierra Leone
+392,Lesotho,South Africa
+393,Lithuania,Belarus
+394,Lithuania,Latvia
+395,Lithuania,Poland
+396,Lithuania,Russia
+397,Luxembourg,Belgium
+398,Luxembourg,Germany
+399,Luxembourg,France
+400,Latvia,Belarus
+401,Latvia,Estonia
+402,Latvia,Lithuania
+403,Latvia,Russia
+404,Libya,Algeria
+405,Libya,Chad
+406,Libya,Egypt
+407,Libya,Niger
+408,Libya,Sudan
+409,Libya,Tunisia
+410,Morocco,Algeria
+411,Morocco,Spain
+412,Morocco,Western Sahara
+413,Monaco,France
+414,Moldova,Romania
+415,Moldova,Ukraine
+416,Montenegro,Albania
+417,Montenegro,Bosnia and Herzegovina
+418,Montenegro,Croatia
+419,Montenegro,Serbia
+420,Saint Martin (French part),Sint Maarten (Dutch part)
+421,Madagascar,
+422,Marshall Islands,
+423,North Macedonia,Albania
+424,North Macedonia,Bulgaria
+425,North Macedonia,Greece
+426,North Macedonia,Serbia
+427,Mali,Algeria
+428,Mali,Burkina Faso
+429,Mali,Cote d'Ivoire
+430,Mali,Guinea
+431,Mali,Mauritania
+432,Mali,Niger
+433,Mali,Senegal
+434,Myanmar,Bangladesh
+435,Myanmar,China
+436,Myanmar,India
+437,Myanmar,Laos
+438,Myanmar,Thailand
+439,Mongolia,China
+440,Mongolia,Russia
+441,Macao,China
+442,Northern Mariana Islands,
+443,Martinique,
+444,Mauritania,Algeria
+445,Mauritania,Mali
+446,Mauritania,Senegal
+447,Mauritania,Western Sahara
+448,Montserrat,
+449,Malta,
+450,Mauritius,
+451,Maldives,
+452,Malawi,Mozambique
+453,Malawi,Tanzania
+454,Malawi,Zambia
+455,Mexico,Belize
+456,Mexico,Guatemala
+457,Mexico,US
+458,Malaysia,Brunei
+459,Malaysia,Indonesia
+460,Malaysia,Thailand
+461,Mozambique,Malawi
+462,Mozambique,Eswatini
+463,Mozambique,South Africa
+464,Mozambique,Tanzania
+465,Mozambique,Zambia
+466,Mozambique,Zimbabwe
+467,Namibia,Angola
+468,Namibia,Botswana
+469,Namibia,South Africa
+470,Namibia,Zambia
+471,New Caledonia,
+472,Niger,Algeria
+473,Niger,Benin
+474,Niger,Burkina Faso
+475,Niger,Chad
+476,Niger,Libya
+477,Niger,Mali
+478,Niger,Nigeria
+479,Norfolk Island,
+480,Nigeria,Benin
+481,Nigeria,Cameroon
+482,Nigeria,Chad
+483,Nigeria,Niger
+484,Nicaragua,Costa Rica
+485,Nicaragua,Honduras
+486,Netherlands,Belgium
+487,Netherlands,Germany
+488,Norway,Finland
+489,Norway,Russia
+490,Norway,Sweden
+491,Nepal,China
+492,Nepal,India
+493,Nauru,
+494,Niue,
+495,New Zealand,
+496,Oman,United Arab Emirates
+497,Oman,Saudi Arabia
+498,Oman,Yemen
+499,Panama,Colombia
+500,Panama,Costa Rica
+501,Peru,Bolivia
+502,Peru,Brazil
+503,Peru,Chile
+504,Peru,Colombia
+505,Peru,Ecuador
+506,French Polynesia,
+507,Papua New Guinea,Indonesia
+508,Philippines,
+509,Pakistan,Afghanistan
+510,Pakistan,China
+511,Pakistan,India
+512,Pakistan,Iran
+513,Poland,Belarus
+514,Poland,Czechia
+515,Poland,Germany
+516,Poland,Lithuania
+517,Poland,Russia
+518,Poland,Slovakia
+519,Poland,Ukraine
+520,Saint Pierre and Miquelon,
+521,Pitcairn,
+522,Puerto Rico,
+523,"Palestine, State of",Egypt
+524,"Palestine, State of",Israel
+525,"Palestine, State of",Jordan
+526,Portugal,Spain
+527,Palau,
+528,Paraguay,Argentina
+529,Paraguay,Bolivia
+530,Paraguay,Brazil
+531,Qatar,Saudi Arabia
+532,Reunion,
+533,Romania,Bulgaria
+534,Romania,Hungary
+535,Romania,Moldova
+536,Romania,Serbia
+537,Romania,Ukraine
+538,Serbia,Albania
+539,Serbia,Bosnia and Herzegovina
+540,Serbia,Bulgaria
+541,Serbia,Croatia
+542,Serbia,Hungary
+543,Serbia,Montenegro
+544,Serbia,North Macedonia
+545,Serbia,Romania
+546,Russia,Azerbaijan
+547,Russia,Belarus
+548,Russia,China
+549,Russia,Estonia
+550,Russia,Finland
+551,Russia,Georgia
+552,Russia,Kazakhstan
+553,Russia,Korea (Democratic People's Republic of)
+554,Russia,Latvia
+555,Russia,Lithuania
+556,Russia,Mongolia
+557,Russia,Norway
+558,Russia,Poland
+559,Russia,Ukraine
+560,Rwanda,Burundi
+561,Rwanda,Congo (the Democratic Republic of the)
+562,Rwanda,Tanzania
+563,Rwanda,Uganda
+564,Saudi Arabia,Iraq
+565,Saudi Arabia,Jordan
+566,Saudi Arabia,Kuwait
+567,Saudi Arabia,Oman
+568,Saudi Arabia,Qatar
+569,Saudi Arabia,United Arab Emirates
+570,Saudi Arabia,Yemen
+571,Solomon Islands,
+572,Seychelles,
+573,Sudan,Central African Republic
+574,Sudan,Chad
+575,Sudan,Egypt
+576,Sudan,Ethiopia
+577,Sudan,Eritrea
+578,Sudan,Libya
+579,Sudan,South Sudan
+580,Sweden,Finland
+581,Sweden,Norway
+582,Singapore,
+583,"Saint Helena,""Ascension and Tristan da Cunha",
+584,Slovenia,Austria
+585,Slovenia,Croatia
+586,Slovenia,Hungary
+587,Slovenia,Italy
+588,Svalbard and Jan Mayen,
+589,Slovakia,Austria
+590,Slovakia,Czechia
+591,Slovakia,Hungary
+592,Slovakia,Poland
+593,Slovakia,Ukraine
+594,Sierra Leone,Guinea
+595,Sierra Leone,Liberia
+596,San Marino,Italy
+597,Senegal,Gambia
+598,Senegal,Guinea
+599,Senegal,Guinea-Bissau
+600,Senegal,Mali
+601,Senegal,Mauritania
+602,Somalia,Djibouti
+603,Somalia,Ethiopia
+604,Somalia,Kenya
+605,Suriname,Brazil
+606,Suriname,French Guiana
+607,Suriname,Guyana
+608,South Sudan,Central African Republic
+609,South Sudan,Congo (the Democratic Republic of the)
+610,South Sudan,Ethiopia
+611,South Sudan,Kenya
+612,South Sudan,Sudan
+613,South Sudan,Uganda
+614,Sao Tome and Principe,
+615,El Salvador,Guatemala
+616,El Salvador,Honduras
+617,Sint Maarten (Dutch part),Saint Martin (French part)
+618,Syria,Iraq
+619,Syria,Israel
+620,Syria,Jordan
+621,Syria,Lebanon
+622,Syria,Turkey
+623,Eswatini,Mozambique
+624,Eswatini,South Africa
+625,Turks and Caicos Islands,
+626,Chad,Cameroon
+627,Chad,Central African Republic
+628,Chad,Libya
+629,Chad,Niger
+630,Chad,Nigeria
+631,Chad,Sudan
+632,French Southern Territories,
+633,Togo,Benin
+634,Togo,Burkina Faso
+635,Togo,Ghana
+636,Thailand,Cambodia
+637,Thailand,Laos
+638,Thailand,Malaysia
+639,Thailand,Myanmar
+640,Tajikistan,Afghanistan
+641,Tajikistan,China
+642,Tajikistan,Kyrgyzstan
+643,Tajikistan,Uzbekistan
+644,Tokelau,
+645,Timor-Leste,Indonesia
+646,Turkmenistan,Afghanistan
+647,Turkmenistan,Iran
+648,Turkmenistan,Kazakhstan
+649,Turkmenistan,Uzbekistan
+650,Tunisia,Algeria
+651,Tunisia,Libya
+652,Tonga,
+653,Turkey,Armenia
+654,Turkey,Azerbaijan
+655,Turkey,Bulgaria
+656,Turkey,Georgia
+657,Turkey,Greece
+658,Turkey,Iran
+659,Turkey,Iraq
+660,Turkey,Syria
+661,Trinidad and Tobago,
+662,Tuvalu,
+663,Taiwan*,
+664,Tanzania,Burundi
+665,Tanzania,Congo (the Democratic Republic of the)
+666,Tanzania,Kenya
+667,Tanzania,Malawi
+668,Tanzania,Mozambique
+669,Tanzania,Rwanda
+670,Tanzania,Uganda
+671,Tanzania,Zambia
+672,Ukraine,Belarus
+673,Ukraine,Hungary
+674,Ukraine,Moldova
+675,Ukraine,Poland
+676,Ukraine,Romania
+677,Ukraine,Russia
+678,Ukraine,Slovakia
+679,Uganda,Congo (the Democratic Republic of the)
+680,Uganda,Kenya
+681,Uganda,Rwanda
+682,Uganda,South Sudan
+683,Uganda,Tanzania
+684,United States Minor Outlying Islands,
+685,US,Canada
+686,US,Mexico
+687,Uruguay,Argentina
+688,Uruguay,Brazil
+689,Uzbekistan,Afghanistan
+690,Uzbekistan,Kazakhstan
+691,Uzbekistan,Kyrgyzstan
+692,Uzbekistan,Tajikistan
+693,Uzbekistan,Turkmenistan
+694,Holy See,Italy
+695,Saint Vincent and the Grenadines,
+696,Venezuela,Brazil
+697,Venezuela,Colombia
+698,Venezuela,Guyana
+699,Virgin Islands (British),
+700,Virgin Islands (U.S.),
+701,Vietnam,Cambodia
+702,Vietnam,China
+703,Vietnam,Laos
+704,Vanuatu,
+705,Wallis and Futuna,
+706,Samoa,
+707,Yemen,Oman
+708,Yemen,Saudi Arabia
+709,Mayotte,
+710,South Africa,Botswana
+711,South Africa,Lesotho
+712,South Africa,Mozambique
+713,South Africa,Namibia
+714,South Africa,Eswatini
+715,South Africa,Zimbabwe
+716,Zambia,Angola
+717,Zambia,Botswana
+718,Zambia,Congo (the Democratic Republic of the)
+719,Zambia,Malawi
+720,Zambia,Mozambique
+721,Zambia,Namibia
+722,Zambia,Tanzania
+723,Zambia,Zimbabwe
+724,Zimbabwe,Botswana
+725,Zimbabwe,Mozambique
+726,Zimbabwe,South Africa
+727,Zimbabwe,Zambia
