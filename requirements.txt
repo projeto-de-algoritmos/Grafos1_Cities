@@ -2,3 +2,6 @@ notebook
 pandas
 networkx
 matplotlib
+holoviews
+numpy
+metaflow
