@@ -5,3 +5,5 @@ matplotlib
 holoviews
 numpy
 metaflow
+voila
+ipywidgets
