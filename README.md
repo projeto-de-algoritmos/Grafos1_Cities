@@ -28,11 +28,11 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 ### Execução do projeto
 1. Instale as biblioteca necessárias  
     ```$ pip3 install -r requirements.txt```
-2. Execute o script de pré-processamento dos dados
+2. Execute o script de pré-processamento dos dados  
     ```$ python main.py run```
-3. Habilite os widget em seu notebook
+3. Habilite os widget em seu notebook  
     ```$ jupyter nbextension enable --py widgetsnbextension```
-4. Execute o notebook
+4. Execute o notebook  
    ```jupyter-notebook --NotebookApp.token=""```
 
 
@@ -40,8 +40,8 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+<p>Neste projeto foram utilizadas fontes diferentes de dados, retiradas do <a href="https://www.kaggle.com/">kaggle</a>. A <a href="https://www.kaggle.com/resheto/country-borders">primeira</a>, consistia em, basicamente, a maioria dos países de todos os continentes associados às suas fronteiras. A <a href="https://www.kaggle.com/tomvebrcz/countriesandcontinents">segunda</a>, possui a lista da maioria dos países associada aos respectivos continentes.</p>
 
+<p>Porém, ambos os dados apresentavam algumas incosistências como repetição desnecessária de variáveis e padrões nominais desatualizados. Para otimização da utilidade dessas fontes, foi necessário a aplicação de técnicas de pré-processamento, usando como suporte a biblioteca de manipulação de dados <a href="https://pandas.pydata.org/">pandas</a> e, também, a biblioteca <a href="https://metaflow.org/">Metaflow</a>, originalmente desenvolvida na Netflix para aumentar a produtividade dos cientistas de dados que trabalham em uma grande variedade de projetos, desde estatísticas clássicas até state-of-the-art deep learning.</p>
 
-
-
+<p>Além disso, criamos um novo dataset, proveniente do cruzamento de dados de ambas a fontes citadas anteriormente.</p>
