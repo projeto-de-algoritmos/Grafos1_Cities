@@ -33,12 +33,22 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
     ```$ python main.py run```
 3. Habilite os widget em seu notebook  
     ```$ jupyter nbextension enable --py --user widgetsnbextension```
-4. Execute o notebook juntamente com o `voila`
-   ```jupyter-notebook --NotebookApp.token="" --VoilaConfiguration.enable_nbextensions=True```
+4. Execute o notebook juntamente com o `voila`<br>
+   ```jupyter-notebook --NotebookApp.token=""   --VoilaConfiguration.enable_nbextensions=True```
 
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+### Para acessar o deploy da aplicação, clique no badge abaixo:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/projeto-de-algoritmos/Grafos1_Turista/master?urlpath=%2Fvoila%2Frender%2Fapp.ipynb)
+
+### Para acessar a interface da aplicação `voila`:
+ - Após execução do comando **4.** Acessar:
+    `http://localhost:8888/voila/App.ipynb`
+
+### Caso queira consultar o código:
+- Após execução do comando **4.** Acessar:
+  `http://localhost:8888/tree/Grafos1_Cities.ipynb`
 
 ## Outros 
 <p>Neste projeto foram utilizadas fontes diferentes de dados, retiradas do <a href="https://www.kaggle.com/">kaggle</a>. A <a href="https://www.kaggle.com/resheto/country-borders">primeira</a>, consistia em, basicamente, a maioria dos países de todos os continentes associados às suas fronteiras. A <a href="https://www.kaggle.com/tomvebrcz/countriesandcontinents">segunda</a>, possui a lista da maioria dos países associada aos respectivos continentes.</p>
