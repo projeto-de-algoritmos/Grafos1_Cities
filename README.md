@@ -30,9 +30,10 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
     ```$ pip3 install -r requirements.txt```
 2. Execute o script de pré-processamento dos dados
     ```$ python main.py run```
-3. 
-
-
+3. Habilite os widget em seu notebook
+    ```$ jupyter nbextension enable --py widgetsnbextension```
+4. Execute o notebook
+   ```jupyter-notebook --NotebookApp.token=""```
 
 
 ## Uso 
