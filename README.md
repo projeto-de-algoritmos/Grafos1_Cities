@@ -1,5 +1,9 @@
 # Turista
+# Acesse a aplicação pelo badge! 
+# 👇🏽
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/projeto-de-algoritmos/Grafos1_Turista/master?urlpath=%2Fvoila%2Frender%2Fapp.ipynb)
+
+---
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
@@ -14,7 +18,14 @@
 Turista é uma aplicação para quem quer fazer viagens internacionais sem apreciando a paisagem de cada país! Insira o país de origem e o país de destino e descubra a melhor rota para sua viagem!  
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Grafo total 🙂
+![total_graph](img/all_graph.jpg)
+### Sucesso na busca 🙂
+Países alcançáveis
+![success](img/success.jpg)
+### Falha na busca ☹️
+Países não alcançáveis
+![fail](img/fail.jpg)
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -33,13 +44,16 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
     ```$ python main.py run```
 3. Habilite os widget em seu notebook  
     ```$ jupyter nbextension enable --py --user widgetsnbextension```
-4. Execute o notebook juntamente com o `voila`<br>
-   ```jupyter-notebook --NotebookApp.token=""   --VoilaConfiguration.enable_nbextensions=True```
+4. Execute o notebook juntamente com o `voila`  
+   ```$ jupyter-notebook --NotebookApp.token="" --VoilaConfiguration.enable_nbextensions=True```
 
 
 ## Uso 
 
-### Para acessar o deploy da aplicação, clique no badge abaixo:
+### Vídeo explicativo
+[Aqui](https://github.com/projeto-de-algoritmos/Grafos1_Turista/blob/master/app.mp4)
+
+### Para acessar o deploy da aplicação, COM TODOS OS RECURSOS clique no badge abaixo:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/projeto-de-algoritmos/Grafos1_Turista/master?urlpath=%2Fvoila%2Frender%2Fapp.ipynb)
 
 ### Para acessar a interface da aplicação `voila`:
