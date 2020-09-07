@@ -1,4 +1,5 @@
 # Turista
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/projeto-de-algoritmos/Grafos1_Turista/master?urlpath=%2Fvoila%2Frender%2Fapp.ipynb)
 
 **Número da Lista**: 1<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
@@ -31,9 +32,9 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 2. Execute o script de pré-processamento dos dados  
     ```$ python main.py run```
 3. Habilite os widget em seu notebook  
-    ```$ jupyter nbextension enable --py widgetsnbextension```
-4. Execute o notebook  
-   ```jupyter-notebook --NotebookApp.token=""```
+    ```$ jupyter nbextension enable --py --user widgetsnbextension```
+4. Execute o notebook juntamente com o `voila`
+   ```jupyter-notebook --NotebookApp.token="" --VoilaConfiguration.enable_nbextensions=True```
 
 
 ## Uso 
