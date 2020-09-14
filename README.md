@@ -74,7 +74,7 @@ Países não alcançáveis
   `$ {editor de sua preferência} main.py`
   
 - Acessar no repositório:
-  - Acessar: [script de pré-processamento](https://github.com/projeto-de-algoritmos/Grafos1_Turista/blob/master/main.py) e [lógica da interface](https://github.com/projeto-de-algoritmos/Grafos1_Turista/blob/master/main.py)
+  - Acessar: [script de pré-processamento](https://github.com/projeto-de-algoritmos/Grafos1_Turista/blob/master/main.py) e [lógica da interface](https://github.com/projeto-de-algoritmos/Grafos1_Turista/blob/master/Grafos1_Cities.ipynb)
 
 ## Outros 
 <p>Neste projeto foram utilizadas fontes diferentes de dados, retiradas do <a href="https://www.kaggle.com/">kaggle</a>. A <a href="https://www.kaggle.com/resheto/country-borders">primeira</a>, consistia em, basicamente, a maioria dos países de todos os continentes associados às suas fronteiras. A <a href="https://www.kaggle.com/tomvebrcz/countriesandcontinents">segunda</a>, possui a lista da maioria dos países associada aos respectivos continentes.</p>
