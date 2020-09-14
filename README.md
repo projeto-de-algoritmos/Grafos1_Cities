@@ -45,8 +45,9 @@ Países não alcançáveis
 3. Habilite os widget em seu notebook  
     ```$ jupyter nbextension enable --py --user widgetsnbextension```
 4. Execute o notebook juntamente com o `voila`  
-   ```$ jupyter-notebook --NotebookApp.token="" --VoilaConfiguration.enable_nbextensions=True```
-
+   ```$ voila --enable_nbextensions=True```
+5. A interface de interação com o usuário final abrirá em seu navegador padrão  
+6. Acesse o arquivo `App.ipynb` para interagir com a aplicação
 
 ## Uso 
 
@@ -56,13 +57,18 @@ Países não alcançáveis
 ### Para acessar o deploy da aplicação, COM TODOS OS RECURSOS clique no badge abaixo:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/projeto-de-algoritmos/Grafos1_Turista/master?urlpath=%2Fvoila%2Frender%2Fapp.ipynb)
 
-### Para acessar a interface da aplicação `voila`:
- - Após execução do comando **4.** Acessar:
-    `http://localhost:8888/voila/App.ipynb`
-
 ### Caso queira consultar o código:
-- Após execução do comando **4.** Acessar:
-  `http://localhost:8888/tree/Grafos1_Cities.ipynb`
+- Após execução do comando **3.** 
+- Acessar localmente:
+  - Subir o servidor do jupyter-notebook  
+  `$ jupyter-notebook --NotebookApp.token=""`
+  - Acessar a seguinte url:  
+  `http://localhost:8888/notebooks/Grafos1_Cities.ipynb`
+  - Para o script de pré-processamento:  
+  `$ {editor de sua preferência} main.py`
+  
+- Acessar no repositório:
+  - Acessar: [script de pré-processamento](https://github.com/projeto-de-algoritmos/Grafos1_Turista/blob/master/main.py) e [lógica da interface](https://github.com/projeto-de-algoritmos/Grafos1_Turista/blob/master/main.py)
 
 ## Outros 
 <p>Neste projeto foram utilizadas fontes diferentes de dados, retiradas do <a href="https://www.kaggle.com/">kaggle</a>. A <a href="https://www.kaggle.com/resheto/country-borders">primeira</a>, consistia em, basicamente, a maioria dos países de todos os continentes associados às suas fronteiras. A <a href="https://www.kaggle.com/tomvebrcz/countriesandcontinents">segunda</a>, possui a lista da maioria dos países associada aos respectivos continentes.</p>
