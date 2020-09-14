@@ -32,7 +32,7 @@ Países não alcançáveis
 É necessário a instalação dos seguintes pacotes: **Python**, **pip** e **virtualenv** (opcional) para instalação do projeto.
 ### Criação do virtualenv (altamente recomendado)
 1. Crie seu ambiente virtual python  
-    ```$ virtualenv -p python3 venv ```  
+    ```$ python3 -m venv venv ```  
 2. Execute o ambiente virtual criado  
     ```$ source venv/bin/activate```  
 3. Para desativar o ambiente virtual após execução do projeto   
