@@ -30,6 +30,12 @@ Países não alcançáveis
 ## Instalação 
 **Linguagem**: Python<br>
 É necessário a instalação dos seguintes pacotes: **Python**, **pip** e **virtualenv** (opcional) para instalação do projeto.
+### Instalação dos recursos necessários
+1. Instalação do gerenciador de pacote `python pip`<br>
+    ```$ sudo apt-get install python3-pip```
+2. Instalação do `python virtual environment`<br>
+    ```$ sudo apt-get install python3-venv```
+
 ### Criação do virtualenv (altamente recomendado)
 1. Crie seu ambiente virtual python  
     ```$ python3 -m venv venv ```  
